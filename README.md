@@ -1,2 +1,2 @@
 # FallingDetection
-A project where to objective is detect falls.
+A project where the objective is detect falls.
