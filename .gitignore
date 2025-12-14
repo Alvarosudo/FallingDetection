@@ -2,7 +2,7 @@
 *.pt
 !V11_final.pt
 # Resultados de entrenamiento YOLO
-runs/
+#runs/
 
 # Datasets
 dataset.zip
