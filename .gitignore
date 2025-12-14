@@ -1,0 +1,25 @@
+# Pesos de modelos
+*.pt
+!V11_final.pt
+# Resultados de entrenamiento YOLO
+runs/
+
+# Datasets
+dataset.zip
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Vídeos
+*.mp4
+*.avi
+*.wav
+
+# Logs
+*.log
+
+
+#Pesos
+*.weights
+*.cfg

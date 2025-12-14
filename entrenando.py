@@ -22,7 +22,7 @@ def play_alert():
 # -----------------------------
 # Cargar modelo YOLOv8
 # -----------------------------
-model = YOLO('500photos.pt')
+model = YOLO('500photosv8.pt')
 
 # Abrir webcam
 cap = cv2.VideoCapture(0)
